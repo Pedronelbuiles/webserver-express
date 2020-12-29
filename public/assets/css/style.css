@@ -1,0 +1,13 @@
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    padding: 10px;
+}
+
+.imgServida{
+    width: 100%;
+}
